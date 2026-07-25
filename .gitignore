@@ -60,7 +60,6 @@ __pycache__/
 !evaluation/case_study/**/*.log
 
 .claude/*
-CLAUDE.md
 
 .cursor/*
 
